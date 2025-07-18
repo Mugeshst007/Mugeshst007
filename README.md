@@ -3,7 +3,7 @@
   <img src="https://github.com/Mugesh007/your-repo/assets/123456/selected-fullstack-banner.png" alt="Full‑Stack Banner" width="100%" />
 </div>
 
-<h1 align="center">👋 Hi, I’m **Mugesh ST**</h1>
+<h1 align="center">👋 Hi, I’m <b>Mugesh ST</b></h1>
 <h3 align="center">
   AI & Data Science Graduate | Entry‑Level Analyst | Data Visualization | Machine Learning | Flutter App Developer | Full‑Stack Web Developer
 </h3>
