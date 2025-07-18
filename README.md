@@ -1,9 +1,5 @@
 <!-- Banner Image -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mugesh007/your-repo/main/assets/fullstack-grey-banner.png" alt="Mugesh ST Banner" width="100%" />
-</div>
-
-<h1 align="center">👋 Hi, I’m **Mugesh ST**</h1>
+<h1 align="center">👋 Hi, I’m <b>MUGESH ST</b></h1>
 <h3 align="center">
   AI & Data Science Graduate | Entry‑Level Analyst | Data Visualization | Machine Learning | Flutter & Full‑Stack Web Developer
 </h3>
