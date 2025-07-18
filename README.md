@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="assets/fullstack-grey-banner.png" alt="Full‑Stack Grey Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mugesh007/your-repo/main/assets/fullstack-grey-banner.png" alt="Mugesh ST Banner" width="100%" />
 </div>
 
 <h1 align="center">👋 Hi, I’m **Mugesh ST**</h1>
@@ -18,7 +18,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook)](https://facebook.com/asdfa)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram)](https://instagram.com/kadfadsf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://linkedin.com/in/adfasdf)
-[![X](https://img.shields.io/badge/X-black.svg?logo=x-twitter)](https://x.com/asdfasd)
+[![X](https://img.shields.io/badge/X-black.svg?logo=x)](https://x.com/asdfasd)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail)](mailto:asdfa)
 
 ---
@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mugesh007&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mugesh007&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.demolab.com/?user=Mugesh007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugesh007&theme=dark&layout=compact&hide_border=false)
 
 ---
