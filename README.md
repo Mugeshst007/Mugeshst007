@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mugesh007/your-repo/main/assets/chosen-fullstack-banner.png" alt="Full‑Stack Banner" width="100%" />
+  <img src="assets/fullstack-grey-banner.png" alt="Full‑Stack Grey Banner" width="100%" />
 </div>
 
 <h1 align="center">👋 Hi, I’m **Mugesh ST**</h1>
 <h3 align="center">
-  AI & Data Science Graduate | Entry‑Level Analyst | Data Visualization | Machine Learning | Flutter App Developer | Full‑Stack Web Developer
+  AI & Data Science Graduate | Entry‑Level Analyst | Data Visualization | Machine Learning | Flutter & Full‑Stack Web Developer
 </h3>
 
 <p align="center">
@@ -15,10 +15,10 @@
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook)](https://facebook.com/asdfa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram)](https://instagram.com/kadfadsf)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook)](https://facebook.com/asdfa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram)](https://instagram.com/kadfadsf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://linkedin.com/in/adfasdf)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X)](https://x.com/asdfasd)
+[![X](https://img.shields.io/badge/X-black.svg?logo=x-twitter)](https://x.com/asdfasd)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail)](mailto:asdfa)
 
 ---
@@ -51,9 +51,9 @@
 - 🔍 Data Visualization & Exploratory Data Analysis  
 - 🤖 Machine Learning & Predictive Modeling  
 - 📱 Flutter Mobile App Development  
-- 🗄️ MongoDB & NoSQL Design  
+- 🗄️ MongoDB & NoSQL  
 - 🌐 Front-End: HTML, CSS, JavaScript, React, Angular, Bootstrap  
-- 🧠 Back-End: REST APIs, Full‑Stack Projects  
+- 🧠 Back-End: REST APIs & Full‑Stack Projects  
 - 🚀 Deployment & DevOps (Streamlit, Flask, Firebase, etc.)
 
 ---
