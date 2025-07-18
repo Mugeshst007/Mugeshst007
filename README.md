@@ -11,11 +11,9 @@
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook)](https://facebook.com/asdfa)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram)](https://instagram.com/kadfadsf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://linkedin.com/in/adfasdf)
-[![X](https://img.shields.io/badge/X-black.svg?logo=x)](https://x.com/asdfasd)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail)](mailto:asdfa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram)](https://www.instagram.com/mugesh_st?igsh=MThnYWFmdHhzYzB1bA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://www.linkedin.com/in/mugesh-st/)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail)](mailto:stmugesh18@gmail.com)
 
 ---
 
