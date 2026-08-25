@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 165" role="img" aria-label="Language metrics setup pending">
+  <rect width="480" height="165" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="240" y="74" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="18">Language metrics</text>
+  <text x="240" y="105" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">Generated automatically by GitHub Actions</text>
+</svg>

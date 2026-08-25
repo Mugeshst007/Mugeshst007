@@ -1,215 +1,200 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,14,18,20,24" />
-
-<table width="100%">
-<tr>
-<td width="58%" valign="middle">
-
-# Hi, I'm Mugesh ST 👋
-
-### AI Engineer & Machine Learning Developer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=2F81F7&vCenter=true&width=560&lines=Building+intelligent+solutions+with+Python;Exploring+Machine+Learning+%26+Deep+Learning;Creating+useful+Generative+AI+applications;Turning+complex+data+into+clear+decisions)](https://git.io/typing-svg)
-
-I build practical AI products by connecting **data, models, APIs and user-friendly interfaces**. My work spans healthcare AI, NLP, computer vision and predictive analytics.
-
-<a href="https://www.linkedin.com/in/mugesh-st/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:stmugesh18@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</td>
-<td width="42%" align="center">
-
-<img width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mugeshst007&label=PROFILE+VIEWS&color=2f81f7&style=flat-square)](https://github.com/Mugeshst007)
-[![Followers](https://img.shields.io/github/followers/Mugeshst007?label=FOLLOWERS&style=flat-square&color=238636)](https://github.com/Mugeshst007?tab=followers)
-[![Public Repositories](https://img.shields.io/badge/dynamic/json?style=flat-square&label=PUBLIC%20REPOS&color=8957e5&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMugeshst007)](https://github.com/Mugeshst007?tab=repositories)
+<!-- Replace this GitHub avatar with assets/portrait.svg after running dotify.py on your original photo. -->
+<img src="https://github.com/Mugeshst007.png" width="260" alt="Mugesh ST">
+
+<br>
+
+<a href="https://github.com/Mugeshst007">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Mugesh+ST;AI+Engineer+%26+ML+Developer;Deep+Learning+%26+Generative+AI;01100010+01110101+01101001+01101100+01100100" alt="typing banner">
+</a>
+
+<br>
+
+<a href="https://linkedin.com/in/mugesh-st"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:stmugesh18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.instagram.com/mugesh_st/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+<img src="https://komarev.com/ghpvc/?username=Mugeshst007&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `~/` whoami
 
-```python
-profile = {
-    "name": "Mugesh ST",
-    "degree": "B.Tech — Artificial Intelligence & Data Science",
-    "role": "AI Engineer & Machine Learning Developer",
-    "building": ["ML applications", "NLP systems", "Computer Vision solutions"],
-    "learning": ["Generative AI", "Transformers", "LangChain", "SAP ABAP"],
-    "open_to": ["AI/ML roles", "Data Science roles", "Python development"],
-    "mission": "Create technology that solves real-world problems"
-}
+```console
+$ cat about.txt
 ```
+
+Hi, I'm **Mugesh ST**, an Artificial Intelligence and Data Science graduate. I build practical
+AI systems that connect data, machine-learning models, APIs and clear user experiences.
+
+- Building projects across **machine learning, NLP, computer vision and healthcare AI**
+- Currently exploring **Transformers, Generative AI, LangChain and SAP ABAP**
+- Presented my multimodal **FetoScan** healthcare AI project at a conference
+- Open to **AI/ML, Data Science and Python Developer** opportunities
+- Fun fact: **I enjoy turning a model in a notebook into a complete working application.**
+
+<br>
+
+<div align="center">
+
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,mysql,sqlite,mongodb,git,github,vscode,html,css,js,flutter&perline=8" alt="tech stack">
+
+<br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` skill radar
 
 <table>
 <tr>
-<td>🔭</td><td>Building end-to-end machine-learning and deep-learning applications</td>
-</tr>
-<tr>
-<td>🧠</td><td>Interested in NLP, computer vision, multimodal AI and explainability</td>
-</tr>
-<tr>
-<td>⚙️</td><td>Experienced in connecting trained models with FastAPI, Flask and Streamlit</td>
-</tr>
-<tr>
-<td>📊</td><td>Comfortable with preprocessing, feature engineering, visualization and evaluation</td>
-</tr>
-<tr>
-<td>🤝</td><td>Open to entry-level opportunities, collaboration and meaningful AI projects</td>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🚀 Projects That Define My Work
+<div align="center">
 
+## `~/` contribution calendar
+
+<!-- Generated by the Metrics workflow after METRICS_TOKEN is configured. -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Generated on the output branch by the Snake workflow. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mugeshst007/Mugeshst007/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mugeshst007/Mugeshst007/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/Mugeshst007/Mugeshst007/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br><br>
+
+<!-- These are created by the Metrics workflow. -->
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+<br><br>
+
+<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+<!-- These stable cards are generated inside this repository by scripts/cards.py. -->
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🩺 FetoScan
-
-**Multimodal Fetal Anomaly Detection**
-
-Combines ultrasound images and CTG clinical features to classify fetal health, supported by an explainable prediction interface.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deep_Learning-7B61FF?style=flat-square)
-
+<td width="50%">
+  <a href="https://github.com/Mugeshst007/Car_Price-Prediction">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-Car_Price-Prediction-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Car_Price-Prediction-light.svg">
+      <img src="assets/card-Car_Price-Prediction-dark.svg" width="420" alt="Car Price Prediction">
+    </picture>
+  </a>
 </td>
-<td width="50%" valign="top">
-
-### 📰 Fake News Detection
-
-**NLP Classification & Live Verification**
-
-Detects unreliable news using classical ML and Transformer models while supporting verification against live trusted sources.
-
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
+<td width="50%">
+  <a href="https://github.com/Mugeshst007/FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection-">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection--dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection--light.svg">
+      <img src="assets/card-FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection--dark.svg" width="420" alt="FetoScan">
+    </picture>
+  </a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🚗 [Car Price Prediction](https://github.com/Mugeshst007/Car_Price-Prediction)
-
-**Used-Car Value Estimation**
-
-Predicts a car's estimated resale price from manufacturer, model, mileage, ownership, location and related vehicle information.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
+<td width="50%">
+  <a href="https://github.com/Mugeshst007/stress-detection-predictor">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-stress-detection-predictor-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-stress-detection-predictor-light.svg">
+      <img src="assets/card-stress-detection-predictor-dark.svg" width="420" alt="Stress Detection Predictor">
+    </picture>
+  </a>
 </td>
-<td width="50%" valign="top">
-
-### 💵 Indian Currency Detector
-
-**Computer-Vision Classification**
-
-Recognizes Indian currency denominations from images with **96% classification accuracy** using a CNN-based workflow.
-
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1F6FEB?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-96%25-238636?style=flat-square)
-
+<td width="50%">
+  <a href="https://github.com/Mugeshst007/rumor-detection">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-rumor-detection-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-rumor-detection-light.svg">
+      <img src="assets/card-rumor-detection-dark.svg" width="420" alt="Rumor Detection">
+    </picture>
+  </a>
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🧠 More: Stress Level Predictor</b></summary>
-<br/>
+<sub>
 
-A Flask-based application that predicts stress levels using physiological and sleep-related parameters with Random Forest and neural-network models.
+| project | focus | stack |
+|---|---|---|
+| **[Car Price Prediction](https://github.com/Mugeshst007/Car_Price-Prediction)** | Predictive analytics | `Python` `Streamlit` `scikit-learn` |
+| **[FetoScan](https://github.com/Mugeshst007/FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection-)** | Multimodal healthcare AI | `TensorFlow` `CNN` `FastAPI` |
+| **[Stress Detection](https://github.com/Mugeshst007/stress-detection-predictor)** | ML web application | `Flask` `Random Forest` `Neural Network` |
+| **[Rumor Detection](https://github.com/Mugeshst007/rumor-detection)** | NLP classification | `CNN` `NLP` `Jupyter` |
 
-</details>
-
----
-
-## 🛠️ Tech Universe
-
-<div align="center">
-
-### Languages
-
-[![Languages](https://skillicons.dev/icons?i=python,mysql,html,css,js,dart&theme=dark)](https://skillicons.dev)
-
-### AI, Data & Backend
-
-[![AI and Backend](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,flask&theme=dark)](https://skillicons.dev)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Databases, Apps & Tools
-
-[![Tools](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,flutter,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</sub>
 
 </div>
 
 ---
 
-## 🏆 GitHub Highlights
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mugeshst007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mugeshst007&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugeshst007&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugeshst007&theme=github-compact&hide_border=true&area=true&custom_title=Mugesh's%20Contribution%20Graph" alt="Contribution graph" />
-
-<img width="55%" src="https://streak-stats.demolab.com?user=Mugeshst007&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🎯 What I'm Focused on in 2026
-
-```text
-Machine Learning   ███████████████████░  Building stronger end-to-end systems
-Generative AI      ████████████████░░░░  LLMs, RAG, agents and function calling
-Deep Learning      ███████████████░░░░░  Multimodal models and explainability
-AI Deployment      █████████████░░░░░░░  APIs, testing and production workflows
-SAP ABAP           ████████░░░░░░░░░░░░  ABAP and HANA fundamentals
-```
-
----
-
-<div align="center">
-
-## 💬 Let's Build Something Useful
-
-I'm open to **AI/ML opportunities, collaborations and conversations about practical AI**.
-
-<a href="mailto:stmugesh18@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-Email_Me-2F81F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mugesh-st/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/><br/>
-
-### ✦ Learn deeply · Build thoughtfully · Improve continuously ✦
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24" />
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>

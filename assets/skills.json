@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated learning radar. Update the values as skills improve.",
+  "axes": [
+    { "label": "Python",       "value": 85 },
+    { "label": "Machine Learn", "value": 82 },
+    { "label": "Deep Learning", "value": 74 },
+    { "label": "Data Analysis", "value": 80 },
+    { "label": "FastAPI",       "value": 70 },
+    { "label": "SQL",           "value": 76 },
+    { "label": "Generative AI", "value": 65 }
+  ]
+}

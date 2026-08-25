@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" role="img" aria-label="Achievement metrics setup pending">
+  <rect width="900" height="130" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="450" y="58" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="18">GitHub achievements</text>
+  <text x="450" y="88" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">Your live achievements appear after the first Metrics workflow run</text>
+</svg>

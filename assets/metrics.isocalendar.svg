@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-label="Contribution calendar setup pending">
+  <rect width="900" height="180" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="450" y="82" text-anchor="middle" fill="#39d353" font-family="monospace" font-size="20">Contribution calendar</text>
+  <text x="450" y="116" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="14">Run the Metrics workflow to generate Mugeshst007's live calendar</text>
+</svg>

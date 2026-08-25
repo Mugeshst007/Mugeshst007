@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured Mugeshst007 repositories. Cards refresh automatically through GitHub Actions.",
+  "projects": [
+    {
+      "repo": "Car_Price-Prediction",
+      "description": "A Streamlit machine-learning application that estimates used-car prices from vehicle specifications, mileage, ownership and location."
+    },
+    {
+      "repo": "FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection-",
+      "description": "A multimodal healthcare AI system for fetal anomaly detection using ultrasound images, CTG data and explainable predictions."
+    },
+    {
+      "repo": "stress-detection-predictor",
+      "description": "A Flask application that predicts stress levels from physiological and sleep-related parameters using ML and deep learning."
+    },
+    {
+      "repo": "rumor-detection",
+      "description": "A machine-learning system for real-time tweet rumor detection using natural language processing and a CNN."
+    }
+  ]
+}
