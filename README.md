@@ -54,8 +54,9 @@ I build practical AI applications using machine learning, deep learning, NLP and
 
 | Project | Description | Technologies |
 |---|---|---|
+| [Alzheimer’s Disease Detection](https://github.com/Mugeshst007/alzheimers-disease-detection) | Detects signs of Alzheimer’s disease from brain MRI images and returns the predicted class with a confidence score | Python, TensorFlow, Keras, CNN |
 | [FetoScan](https://github.com/Mugeshst007/FETOSCAN-AI-Powered-Multimodal-Real-Time-Fetal-Anomaly-Detection-) | Multimodal fetal anomaly detection using ultrasound images, CTG data and explainable AI | TensorFlow, CNN, FastAPI |
-| [Car Price Prediction](https://github.com/Mugeshst007/Car_Price-Prediction) | Predicts used-car prices from vehicle, mileage, ownership and location information | Python, scikit-learn, Streamlit |
+| [Car Price Prediction](https://github.com/Mugeshst007/Car_Price-Prediction) | Predicts used-car prices from vehicle, mileage, ownership and location information | Python, Scikit-learn, Streamlit |
 | [Stress Detection Predictor](https://github.com/Mugeshst007/stress-detection-predictor) | Predicts stress levels from physiological and sleep-related parameters | Random Forest, Neural Network, Flask |
 | [Rumor Detection](https://github.com/Mugeshst007/rumor-detection) | Detects real-time tweet rumors using machine learning and NLP | CNN, NLP, Jupyter Notebook |
 
